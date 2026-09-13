@@ -1,0 +1,14 @@
+# Binarios e arquivos compilados
+bin/
+*.class
+
+# Arquivos de logs e temporarios
+*.log
+*.tmp
+
+# Configuracoes de IDEs especificas de usuario
+.metadata/
+.settings/
+.vscode/
+.idea/
+*.iml
